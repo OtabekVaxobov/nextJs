@@ -1,3 +1,2 @@
 # NextJS-Pizza
-Qwr
-Fghj
+some project
